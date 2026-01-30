@@ -1,0 +1,11 @@
+fastapi
+uvicorn 
+httpx
+pydantic
+python-multipart
+python-dotenv
+requirements
+pymupdf
+base64
+
+#winget install --id=oschwartz10612.Poppler -e
